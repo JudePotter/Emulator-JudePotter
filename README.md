@@ -1,7 +1,7 @@
 # Emulator-JudePotter
 
-# The emulator is similar to computer architecture, with different ways computers are constructed. 
+The emulator is similar to computer architecture, showing different ways computers are constructed. 
 
-# We learnt the importance of flags in a CPU, how they are set, and what uses the flags have.
+We learnt the importance of flags in a CPU, how they are set, and what uses each flags has.
 
-# This code had a previous pre built format and it was our job to implement many things, allowing it to run 
+This code had a previous pre built format and it was our job to implement flags, functions etc, allowing it to run smoothly.
